@@ -1,0 +1,4 @@
+needs swig, gsl and python for building
+bulid with make SLOW=1 for the SLOW branch if the code, check for multiply events
+make 
+make SLOW=1

@@ -1,0 +1,14 @@
+*wrap.cxx
+*.o
+*.o
+*.so
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.vscode/
+.swp
+*.pdf
+*.png
+*.pandas
+*.npz
+*.xlsx
+*.csv
